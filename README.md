@@ -40,3 +40,8 @@ To contribute to this project:
 3. Make your changes and commit them.
 4. Push your branch to GitHub.
 5. Open a pull request.
+
+## Credits
+
+- Project template provided by [Udacity](https://github.com/udacity/post-your-work-project).
+- Bikeshare starter code and dataset provided by Udacity.
