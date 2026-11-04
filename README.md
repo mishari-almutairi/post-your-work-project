@@ -28,3 +28,15 @@ python bikeshare.py
 ## Note
 
 The dataset is not uploaded to GitHub because it is listed in `.gitignore`.
+
+## Contribution Guidelines
+
+Contributions are welcome!
+
+To contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Push your branch to GitHub.
+5. Open a pull request.
